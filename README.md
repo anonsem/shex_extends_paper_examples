@@ -1,11 +1,16 @@
 # ShEx Extends Paper Companion
 
-This repository contains examples and code from the paper about ShEx+extends in order to make the contents of the paper reproducible. The folder <code>Examples</code> contains the examples from the paper.
+This repository contains examples and code from the paper about ShEx+extends in order to show how the examples can be run. 
+The source code of the implementations is available in public github repositories which will be added as links in case the paper is accepted.
 
 
 ## Running the examples interactively
 
-The examples can be run using two online ShEx validators: <a href="https://shex.io/webapps/shex.js/packages/shex-webapp/doc/shex-simple?manifestURL=https://raw.githubusercontent.com/anonsem/shex_extends_paper_examples/master/manifest.yml">ShEx-Simple</a> and <a href="https://rdfshape.weso.es">RDFShape</a>, marked as T1 and T2. 
+The examples can be run using two online ShEx validators: 
+<ul>
+  <li><a href="https://shex.io/webapps/shex.js/packages/shex-webapp/doc/shex-simple?manifestURL=https://raw.githubusercontent.com/anonsem/shex_extends_paper_examples/master/manifest.yml">ShEx-Simple</a> (T1)</li>
+  <li><a href="https://rdfshape.weso.es">RDFShape</a> (T2)</li>
+</ul>
 
 <ul>
 <li>Products
