@@ -5,7 +5,7 @@ This repository contains examples and code from the paper about ShEx+extends in 
 
 ## Running the examples interactively
 
-The examples can be run using two online ShEx validators: <a href="https://shex.io/webapps/shex.js/packages/shex-webapp/doc/shex-simple?manifestURL=https://raw.githubusercontent.com/anonsem/shex_extends_paper_examples/master/examples/manifest.yml">ShEx-Simple</a> and <a href="https://rdfshape.weso.es">RDFShape</a>, marked as T1 and T2. 
+The examples can be run using two online ShEx validators: <a href="https://shex.io/webapps/shex.js/packages/shex-webapp/doc/shex-simple?manifestURL=https://raw.githubusercontent.com/anonsem/shex_extends_paper_examples/master/manifest.yml">ShEx-Simple</a> and <a href="https://rdfshape.weso.es">RDFShape</a>, marked as T1 and T2. 
 
 <ul>
 <li>Products
