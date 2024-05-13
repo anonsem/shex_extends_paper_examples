@@ -8,7 +8,7 @@ The source code of the implementations is available in public github repositorie
 
 The examples can be run using two online ShEx validators: 
 <ul>
-  <li><a href="https://shex.io/webapps/shex.js/packages/shex-webapp/doc/shex-simple?manifestURL=https://raw.githubusercontent.com/anonsem/shex_extends_paper_examples/master/manifest.yml">ShEx-Simple</a> (T1). That link loads the all the examples directly.</li>
+  <li><a href="https://shex.io/webapps/shex.js/packages/shex-webapp/doc/shex-simple?manifestURL=https://raw.githubusercontent.com/anonsem/shex_extends_paper_examples/master/manifest.yml">ShEx-Simple</a> (T1). That link loads all the examples directly.</li>
   <li><a href="https://rdfshape.weso.es">RDFShape</a> (T2)</li>
 </ul>
 
